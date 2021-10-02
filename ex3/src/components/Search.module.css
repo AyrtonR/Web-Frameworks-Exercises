@@ -1,0 +1,4 @@
+.presentationModeGrid {
+    display: flex;
+    flex-wrap: wrap;
+}

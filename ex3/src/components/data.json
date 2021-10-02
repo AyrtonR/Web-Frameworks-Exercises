@@ -1,0 +1,55 @@
+{
+    "items": [
+        {
+        "id": 1,
+        "name": "GeForce RTX 3080 Ti",
+        "make": "Asus",
+        "type": "Graphic Card",
+        "price": 1869,
+        "image": "graph1.jpg"
+
+        },
+        {
+        "id": 2,
+        "name": "GeForce RTX 3060",
+        "make": "Asus",
+        "type": "Graphic Card",
+        "price": 739,
+        "image": "graph2.jpg"
+
+        },
+        {
+        "id": 3,
+        "name": "GeForce RTX 2060",
+        "make": "Asus",
+        "type": "Graphic Card",
+        "price": 589,
+        "image": "graph3.jpg"
+        
+        },
+        {
+        "id": 4,
+        "name": "GeForce RTX 3060 DUAL",
+        "make": "Asus",
+        "type": "Graphic Card",
+        "price": 649,
+        "image": "graph4.jpg"
+        },
+        {
+        "id": 5,
+        "name": "Radeon RX 6700 XT",
+        "make": "Asus",
+        "type": "Graphic Card",
+        "price": 949,
+        "image": "graph5.jpg"
+        },
+        {
+        "id": 6,
+        "name": "GeForce RTX 3060 GAMING",
+        "make": "Gigabyte",
+        "type": "Graphic Card",
+        "price": 699,
+        "image": "graph6.jpg"
+         }
+    ]
+  }
